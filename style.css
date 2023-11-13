@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+}
+section{
+    display: flex;
+    border: 1px solid black;
+
+}
+#bait{
+    display: flex;
+    justify-content: space-around;
+    height: 10vh;
+    background-color:darkred;
+}
+.sites{
+    padding: 1vw;
+    padding-bottom: 1vw;
+}
+.gay{
+    text-decoration: none;
+    padding-top: 1vw;
+    padding-bottom: 1vw;
+}
+nav{
+    display: flex;
+    justify-content: space-evenly;
+    width: 85vw;
+    background-color: maroon;
+}
